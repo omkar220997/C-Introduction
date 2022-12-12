@@ -16,7 +16,14 @@ namespace AdditionSyntax
             result = result+numbers[2];
             result = result+numbers[3];
             result = result+numbers[4];
-            Console.WriteLine("Addition of the given numbers is : " + result);
+            Console.WriteLine("Addition of the given numbers by simple method is : " + result);
+
+            double result1 = 0.0;
+            foreach(double number in numbers)
+            {
+                result1 += number;
+            }
+            Console.WriteLine("Addition of given numbers by foreach loop is : " +result1);
 
             double x = 57.8621;
             double y = 35.426;
