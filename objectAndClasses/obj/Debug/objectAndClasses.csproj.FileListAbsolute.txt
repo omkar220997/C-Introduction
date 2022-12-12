@@ -1,0 +1,8 @@
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\objectAndClasses\obj\Debug\objectAndClasses.csproj.AssemblyReference.cache
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\objectAndClasses\obj\Debug\objectAndClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\objectAndClasses\obj\Debug\objectAndClasses.csproj.CoreCompileInputs.cache
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\objectAndClasses\bin\Debug\objectAndClasses.exe.config
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\objectAndClasses\bin\Debug\objectAndClasses.exe
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\objectAndClasses\bin\Debug\objectAndClasses.pdb
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\objectAndClasses\obj\Debug\objectAndClasses.exe
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\objectAndClasses\obj\Debug\objectAndClasses.pdb
