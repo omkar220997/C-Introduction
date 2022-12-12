@@ -18,7 +18,6 @@ namespace helloWorld
             {
                 Console.WriteLine("Hello world");
             }
-            
             Console.ReadLine();
         }
     }
