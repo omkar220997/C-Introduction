@@ -11,6 +11,15 @@ namespace AdditionSyntax
         static void Main(string[] args)
         {
             double[] numbers = new double[5] {57.369,25.352,56.859,69.963,74.248};
+
+            List <double> grades=new List<double>() { 57.369, 25.352, 56.859, 69.963, 74.248 };
+            double result2 = 0.0;
+            foreach (double number in grades)
+            {
+                result2 += number;
+            }
+            Console.WriteLine("Addition of given numbers in list grades by foreach loop is : " + result2);
+
             double result = numbers[0];
             result = result+numbers[1];
             result = result+numbers[2];
@@ -23,7 +32,7 @@ namespace AdditionSyntax
             {
                 result1 += number;
             }
-            Console.WriteLine("Addition of given numbers by foreach loop is : " +result1);
+            Console.WriteLine("Addition of given numbers in Array numbers by foreach loop is : " +result1);
 
             double x = 57.8621;
             double y = 35.426;
