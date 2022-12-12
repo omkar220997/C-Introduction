@@ -1,0 +1,8 @@
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\codeTesting\obj\Debug\codeTesting.csproj.AssemblyReference.cache
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\codeTesting\obj\Debug\codeTesting.csproj.SuggestedBindingRedirects.cache
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\codeTesting\obj\Debug\codeTesting.csproj.CoreCompileInputs.cache
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\codeTesting\bin\Debug\codeTesting.exe.config
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\codeTesting\bin\Debug\codeTesting.exe
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\codeTesting\bin\Debug\codeTesting.pdb
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\codeTesting\obj\Debug\codeTesting.exe
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\codeTesting\obj\Debug\codeTesting.pdb
