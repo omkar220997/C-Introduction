@@ -10,11 +10,20 @@ namespace AdditionSyntax
     {
         static void Main(string[] args)
         {
+            double[] numbers = new double[5] {57.369,25.352,56.859,69.963,74.248};
+            double result = numbers[0];
+            result = result+numbers[1];
+            result = result+numbers[2];
+            result = result+numbers[3];
+            result = result+numbers[4];
+            Console.WriteLine("Addition of the given numbers is : " + result);
+
             double x = 57.8621;
             double y = 35.426;
             double z = x + y;
             Console.WriteLine("Addition of x and y is " +z);
             Console.ReadLine();
+
         }
     }
 }
