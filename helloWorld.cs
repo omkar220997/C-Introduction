@@ -10,7 +10,15 @@ namespace helloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Omkar");
+            if (args.Length > 0)
+            {
+                Console.WriteLine("Hello Omkar");
+            }
+            else
+            {
+                Console.WriteLine("Hello world");
+            }
+            
             Console.ReadLine();
         }
     }
