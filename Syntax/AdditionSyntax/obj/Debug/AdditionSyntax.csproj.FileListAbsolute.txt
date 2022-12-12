@@ -1,0 +1,8 @@
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\Syntax\AdditionSyntax\bin\Debug\AdditionSyntax.exe.config
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\Syntax\AdditionSyntax\bin\Debug\AdditionSyntax.exe
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\Syntax\AdditionSyntax\bin\Debug\AdditionSyntax.pdb
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\Syntax\AdditionSyntax\obj\Debug\AdditionSyntax.csproj.AssemblyReference.cache
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\Syntax\AdditionSyntax\obj\Debug\AdditionSyntax.csproj.SuggestedBindingRedirects.cache
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\Syntax\AdditionSyntax\obj\Debug\AdditionSyntax.csproj.CoreCompileInputs.cache
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\Syntax\AdditionSyntax\obj\Debug\AdditionSyntax.exe
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\Syntax\AdditionSyntax\obj\Debug\AdditionSyntax.pdb
