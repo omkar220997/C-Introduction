@@ -1,0 +1,8 @@
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\xUnitTest\bin\Debug\xUnitTest.exe.config
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\xUnitTest\bin\Debug\xUnitTest.exe
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\xUnitTest\bin\Debug\xUnitTest.pdb
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\xUnitTest\obj\Debug\xUnitTest.csproj.AssemblyReference.cache
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\xUnitTest\obj\Debug\xUnitTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\xUnitTest\obj\Debug\xUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\xUnitTest\obj\Debug\xUnitTest.exe
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\xUnitTest\obj\Debug\xUnitTest.pdb

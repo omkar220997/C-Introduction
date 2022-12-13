@@ -8,7 +8,7 @@ namespace xUnitTest
 {
     public class GradeCalculator
     {
-        public string GetGradePercentage(int percentage)
+        public string GetGradePercentage(double percentage)
         {
             if (percentage >= 90 && percentage <= 100)
                 return "A";
