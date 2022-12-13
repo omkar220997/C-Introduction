@@ -973,6 +973,15 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "xUnitTest/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/xUnitTest.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/xUnitTest.dll": {}
+        }
       }
     }
   },
@@ -3956,6 +3965,11 @@
         "system.xml.xdocument.4.0.11.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "xUnitTest/1.0.0": {
+      "type": "project",
+      "path": "../xUnitTest/xUnitTest.csproj",
+      "msbuildProject": "../xUnitTest/xUnitTest.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3964,7 +3978,8 @@
       "NUnit >= 3.13.3",
       "NUnit.Analyzers >= 3.3.0",
       "NUnit3TestAdapter >= 4.2.1",
-      "coverlet.collector >= 3.1.2"
+      "coverlet.collector >= 3.1.2",
+      "xUnitTest >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3999,7 +4014,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\kada_omk\\Desktop\\Omkar Kadam\\C# Fundamentals\\xUnitTest\\xUnitTest.csproj": {
+              "projectPath": "C:\\Users\\kada_omk\\Desktop\\Omkar Kadam\\C# Fundamentals\\xUnitTest\\xUnitTest.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

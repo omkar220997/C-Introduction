@@ -32,7 +32,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\kada_omk\\Desktop\\Omkar Kadam\\C# Fundamentals\\xUnitTest\\xUnitTest.csproj": {
+                "projectPath": "C:\\Users\\kada_omk\\Desktop\\Omkar Kadam\\C# Fundamentals\\xUnitTest\\xUnitTest.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -84,6 +88,21 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\Users\\kada_omk\\Desktop\\Omkar Kadam\\C# Fundamentals\\xUnitTest\\xUnitTest.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kada_omk\\Desktop\\Omkar Kadam\\C# Fundamentals\\xUnitTest\\xUnitTest.csproj",
+        "projectName": "xUnitTest",
+        "projectPath": "C:\\Users\\kada_omk\\Desktop\\Omkar Kadam\\C# Fundamentals\\xUnitTest\\xUnitTest.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }
