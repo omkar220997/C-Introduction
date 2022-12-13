@@ -17,7 +17,7 @@ namespace studentGrade.nUnitTests
         [TestCase(90.3)]
         [TestCase(90.009)]
         [TestCase(100)]
-        public void GetGradePercentage_Test(double percentage)
+        public void GetGradePercentage_equalTest(double percentage)
         {
             //var percentage = 99;
 
@@ -25,5 +25,20 @@ namespace studentGrade.nUnitTests
 
             Assert.AreEqual("A", grade);
         }
+
+        [TestCase(1)]
+        [TestCase(45)]
+        [TestCase(100.01)]
+        [TestCase(89.999)]
+        [TestCase(75)]
+        public void GetGradePercentage_notEqualTest(double percentage)
+        {
+            //var percentage = 99;
+
+            var grade = _calculator.GetGradePercentage(percentage);
+
+            Assert.AreNotEqual("A", grade);
+        }
+
     }
 }
