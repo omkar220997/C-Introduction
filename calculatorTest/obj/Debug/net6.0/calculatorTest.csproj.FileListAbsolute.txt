@@ -1,0 +1,5 @@
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\calculatorTest\obj\Debug\net6.0\calculatorTest.csproj.AssemblyReference.cache
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\calculatorTest\obj\Debug\net6.0\calculatorTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\calculatorTest\obj\Debug\net6.0\calculatorTest.AssemblyInfoInputs.cache
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\calculatorTest\obj\Debug\net6.0\calculatorTest.AssemblyInfo.cs
+C:\Users\kada_omk\Desktop\Omkar Kadam\C# Fundamentals\calculatorTest\obj\Debug\net6.0\calculatorTest.csproj.CoreCompileInputs.cache
